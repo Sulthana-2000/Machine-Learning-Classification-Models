@@ -1,3 +1,5 @@
+# Machine Learning - Classification Models
+
 Classification models are a type of machine learning model used to predict categorical outcomes or class labels based on input features.
 They are widely used across various fields, including finance, healthcare, marketing, and more. Here are some common classification models:
 
